@@ -7,3 +7,5 @@ This command is available to all users and shows the bot's uptime.
 ---
 
 *Note: The source code for this command is private and will not be shared.*
+
+<!-- 📄 Last edited by SyntexDev -->
