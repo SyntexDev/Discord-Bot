@@ -7,3 +7,5 @@ Additionally, every command's embed messages and reply texts can be customized, 
 ---  
 
 *Note: The source code for this feature is private and will not be shared.*  
+
+<!-- 📄 Last edited by SyntexDev -->
