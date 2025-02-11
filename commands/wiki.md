@@ -7,3 +7,5 @@ This command is available to all users and provides a way to direct them to the 
 ---
 
 *Note: The source code for this command is private and will not be shared.*
+
+<!-- 📄 Last edited by SyntexDev -->
