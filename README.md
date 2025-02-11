@@ -77,3 +77,5 @@ The goal of this repository is to display my learning journey and the steps I am
 [feature-autorole]: https://github.com/SyntexDev/Discord-Bot/blob/main/events/autorole.md
 [feature-welcomemessage]: https://github.com/SyntexDev/Discord-Bot/blob/main/events/welcomemessage.md
 [feature-customstatus]: https://github.com/SyntexDev/Discord-Bot/blob/main/events/customstatus.md
+
+<!-- 📄 Last edited by SyntexDev -->
